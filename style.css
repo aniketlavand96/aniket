@@ -71,7 +71,7 @@ display: flex;
  hero section */
 
 .hero-section{
-    background-image: url(images/Neo_Qled\ 12.jpg);
+    background-image: url(Neo_Qled\ 12.jpg);
     height: 700px;
     background-size: cover;
 }
